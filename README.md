@@ -6,7 +6,7 @@ I'm a Senior Backend Developer with over 12 years of experience designing and bu
 I’ve worked on large-scale projects in both the public and private sectors including international experience in a UK-based company.  
 I specialize in creating clean and efficient RESTful APIs, with strong experience in:
 
-- Java 8–17  
+- Java 8–21  
 - Spring Boot, Spring MVC, Spring Data  
 - MongoDB, PostgreSQL, Oracle  
 - Kafka, RabbitMQ  
@@ -14,6 +14,10 @@ I specialize in creating clean and efficient RESTful APIs, with strong experienc
 - AWS & cloud-native architectures  
 - Grafana, Prometheus  
 - Agile methodologies (Scrum, Kanban)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ronaldocaldas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ronaldocaldas&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 🌍 **What I Care About**  
 - Writing clean, testable and maintainable code  
