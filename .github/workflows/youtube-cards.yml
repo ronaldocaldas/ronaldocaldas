@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: ronaldocaldas/ronaldocaldas@main
         with:
-          channel_id: UCCBiOSO2g52Xw624RwRjTOQ
+          channel_id: UCXsykNUPsuyNNmy4mMxe8fw
