@@ -98,3 +98,6 @@ I specialize in creating clean and efficient RESTful APIs, with strong experienc
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronaldocaldas@gmail.com)
 
 🚀 Let's build something great together.
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
