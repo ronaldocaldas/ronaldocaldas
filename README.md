@@ -3,7 +3,7 @@
 I'm a Senior Backend Developer with over 12 years of experience designing and building robust, scalable and resilient systems using Java and the Spring ecosystem.
 
 💼 **Professional Background**  
-I’ve worked on large-scale projects in both the public and private sectors — including international experience in a UK-based company, where all communication was 100% in English.  
+I’ve worked on large-scale projects in both the public and private sectors including international experience in a UK-based company.  
 I specialize in creating clean and efficient RESTful APIs, with strong experience in:
 
 - Java 8–17  
@@ -28,6 +28,7 @@ I specialize in creating clean and efficient RESTful APIs, with strong experienc
 
 📫 **Let’s connect!**  
 - [LinkedIn](https://www.linkedin.com/in/ronaldo-caldas-da-silva/)  
-- Email: ronaldo.caldas.dev@gmail.com *(substitua se preferir outro email)*
+- [Youtube Channel](https://www.youtube.com/@kurtphpr)  
+
 
 🚀 Let's build something great together.
