@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Ronaldo Caldas
+## 👋 Hi there, I'm Ronaldo
 
 I'm a Senior Backend Developer with over 12 years of experience designing and building robust, scalable and resilient systems using Java and the Spring ecosystem.
 
