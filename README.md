@@ -9,7 +9,7 @@ I specialize in creating clean and efficient RESTful APIs, with strong experienc
 - Java 8–21  
 - Spring Boot, Spring MVC, Spring Data  
 - MongoDB, PostgreSQL, Oracle  
-- Kafka, RabbitMQ  
+- Pub/Sub, Kafka, RabbitMQ  
 - Docker, Kubernetes, CI/CD  
 - AWS & cloud-native architectures  
 - Grafana, Prometheus  
